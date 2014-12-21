@@ -1,5 +1,5 @@
 ## The functions store the value of the matrix and of its inverse
-## They will check if the inversion has
+## They will check if the inversion has already been done and if yes return it
 
 ## This function stores the value of the x matrix and of its inverse
 
